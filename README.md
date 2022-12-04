@@ -1,1 +1,3 @@
 # Bike-Sharing-Regression
+
+Bike sharing systems allow the riders to easily rent bikes from one location and return them at another location. There are already around 500 bike-sharing schemes with over 500 thousand bicycles spread out across the globe. With the trend towards going green, these bikes play a crucial role in transportation and environment. This project uses regression to predict the number of bikes required from a system based on attributes such as day, weather, time, etc. This information would be helpful to Bike sharing systems so they would know how many bikes they need to have available at any time. The best performance comes from the Light Gradient Boosting Machine (lightgbm).  
